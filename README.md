@@ -1,6 +1,3 @@
-# ai-llm
-Mastering Generative AI and LLMs: An 8-Week Hands-On Journey
-
 # LLM Engineering - Master AI and LLMs
 
 ## Your 8 week journey to proficiency starts today
